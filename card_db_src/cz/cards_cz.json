@@ -122,48 +122,132 @@
     "Tournament": {},
     "Trusty Steed": {},
     "Young Witch": {},
-    "Altar": {},
-    "Armory": {},
-    "Band of Misfits": {},
-    "Bandit Camp": {},
-    "Beggar": {},
-    "Catacombs": {},
-    "Count": {},
-    "Counterfeit": {},
-    "Cultist": {},
-    "Death Cart": {},
-    "Feodum": {},
-    "Forager": {},
-    "Fortress": {},
-    "Graverobber": {},
-    "Hermit": {},
-    "Hovel": {},
-    "Hunting Grounds": {},
-    "Ironmonger": {},
-    "Junk Dealer": {},
-    "Knights": {},
-    "Madman": {},
-    "Marauder": {},
-    "Market Square": {},
-    "Mercenary": {},
-    "Mystic": {},
-    "Necropolis": {},
-    "Overgrown Estate": {},
-    "Pillage": {},
-    "Poor House": {},
-    "Procession": {},
-    "Rats": {},
-    "Rebuild": {},
-    "Rogue": {},
-    "Ruins": {},
-    "Sage": {},
-    "Scavenger": {},
-    "Spoils": {},
-    "Squire": {},
-    "Storeroom": {},
-    "Urchin": {},
-    "Vagrant": {},
-    "Wandering Minstrel": {},
+    "Altar": {
+        "name": "Oltář"
+    },
+    "Armory": {
+        "name": "Zbrojnice"
+    },
+    "Band of Misfits": {
+        "name": "Zkrachovalci"
+    },
+    "Bandit Camp": {
+        "name": "Tábor banditů"
+    },
+    "Beggar": {
+        "name": "Žebrák"
+    },
+    "Catacombs": {
+        "name": "Katakomby"
+    },
+    "Count": {
+        "name": "Hrabě"
+    },
+    "Counterfeit": {
+        "name": "Padělek"
+    },
+    "Cultist": {
+        "name": "Vyznavač"
+    },
+    "Death Cart": {
+        "name": "Pohřební kára"
+    },
+    "Feodum": {
+        "name": "Léno"
+    },
+    "Forager": {
+        "name": "Sběrač"
+    },
+    "Fortress": {
+        "name": "Pevnost"
+    },
+    "Graverobber": {
+        "name": "Vykradač hrobů"
+    },
+    "Hermit": {
+        "name": "Poustevník"
+    },
+    "Hovel": {
+        "name": "Útočiště"
+    },
+    "Hunting Grounds": {
+        "name": "Revír"
+    },
+    "Ironmonger": {
+        "name": "Železářství"
+    },
+    "Junk Dealer": {
+        "name": "Vetešník"
+    },
+    "Knights": {
+        "name": "Rytíři"
+    },
+    "Madman": {
+        "name": "Šílenec"
+    },
+    "Marauder": {
+        "name": "Nájezdník"
+    },
+    "Market Square": {
+        "name": "Náměstí"
+    },
+    "Mercenary": {
+        "name": "Žoldnéř"
+    },
+    "Mystic": {
+        "name": "Šamanka"
+    },
+    "Necropolis": {
+        "name": "Vylidněné město"
+    },
+    "Overgrown Estate": {
+        "name": "Zpustlý statek"
+    },
+    "Pillage": {
+        "name": "Drancování"
+    },
+    "Poor House": {
+        "name": "Chudobinec"
+    },
+    "Procession": {
+        "name": "Procesí"
+    },
+    "Rats": {
+        "name": "Krysy"
+    },
+    "Rebuild": {
+        "name": "Obnova"
+    },
+    "Rogue": {
+        "name": "Padouch"
+    },
+    "Ruins": {
+        "name": "Ruiny"
+    },
+    "Sage": {
+        "name": "Mudrc"
+    },
+    "Scavenger": {
+        "name": "Metař"
+    },
+    "Spoils": {
+        "name": "Kořist"
+    },
+    "Squire": {
+        "name": "Panoš"
+    },
+    "Storeroom": {
+        "name": "Komora"
+    },
+    "Urchin": {
+        "name": "Darebák"
+    },
+    "Vagrant": {
+        "name": "Tulák"
+    },
+    "Wandering Minstrel": {
+        "name": "Bard"
+    },
     "Adventurer": {
         "name": "Dobrodruh"
     },
